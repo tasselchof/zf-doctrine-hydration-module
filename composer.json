@@ -25,7 +25,7 @@
     "zendframework/zend-hydrator": "^1.1 || ^2.2.1",
     "zendframework/zend-modulemanager": "^2.7.2",
     "api-skeletons/zf-doctrine-module-zend-hydrator": "^1.0",
-    "doctrine/doctrine-module": "^1.2",
+    "doctrine/doctrine-module": "^1.2 || ^2.1",
     "doctrine/instantiator": "^1.0.5"
   },
   "require-dev": {
